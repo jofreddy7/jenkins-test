@@ -1,0 +1,68 @@
+[2020-12-16 00:36:09.848] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-16 00:36:09.848] [remoteagent] [info] Extension host agent started.
+[2020-12-16 00:36:10.074] [remoteagent] [info] [::ffff:172.23.32.1][b3d6f439][ManagementConnection] New connection established.
+[2020-12-16 00:36:10.078] [remoteagent] [info] [::ffff:172.23.32.1][54075f97][ExtensionHostConnection] New connection established.
+[2020-12-16 00:36:10.273] [remoteagent] [info] [::ffff:172.23.32.1][54075f97][ExtensionHostConnection] <264> Launched Extension Host Process.
+[2020-12-16 00:36:37.216] [remoteagent] [info] [::ffff:172.23.32.1][b3d6f439][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 00:36:38.254] [remoteagent] [info] [::ffff:172.23.32.1][54075f97][ExtensionHostConnection] <264> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 00:36:38.255] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 00:36:41.075] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] New connection established.
+[2020-12-16 00:36:41.076] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] New connection established.
+[2020-12-16 00:36:41.085] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] <279> Launched Extension Host Process.
+[2020-12-16 00:36:54.200] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 00:41:38.257] [remoteagent] [info] New EH opened, aborting shutdown
+[2020-12-16 10:18:29.650] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 10:18:37.657] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 10:19:38.986] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 10:19:39.986] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 11:13:27.593] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 11:13:35.597] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 11:16:47.348] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 11:16:52.338] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 12:26:37.438] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 12:26:45.467] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 12:55:12.998] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-16 12:55:13.997] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 13:53:30.262] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 13:53:38.583] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-16 13:53:50.757] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:02:49.801] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:02:50.790] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 10:02:59.574] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 10:03:04.433] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:47:43.688] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 10:47:51.697] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:50:06.933] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:50:07.933] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 10:51:13.582] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 10:51:23.118] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:53:26.909] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 10:53:27.913] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:05:33.086] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:05:33.120] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:06:43.597] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:06:46.997] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:09:54.065] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:10:08.118] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:10:59.928] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:11:06.962] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:11:26.528] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:11:26.609] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:12:03.050] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:12:04.069] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:13:26.652] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:13:27.685] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:18:44.828] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:18:45.802] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:30:05.587] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.
+[2020-12-17 11:30:10.064] [remoteagent] [info] [::ffff:172.23.32.1][1a7def6b][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 11:46:23.827] [remoteagent] [info] [::ffff:172.23.32.1][8e6b85f0][ManagementConnection] The client has reconnected.

@@ -1,0 +1,52 @@
+[2020-12-17 13:47:54.247] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-17 13:47:54.247] [remoteagent] [info] Extension host agent started.
+[2020-12-17 13:47:58.495] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] New connection established.
+[2020-12-17 13:47:58.498] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] New connection established.
+[2020-12-17 13:47:58.581] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-17 13:47:58.625] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jofreddy7/.vscode'
+[2020-12-17 13:47:59.639] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] <51> Launched Extension Host Process.
+[2020-12-17 15:05:34.121] [remoteagent] [info] Installing extension: ms-python.python
+[2020-12-17 15:06:12.472] [remoteagent] [info] Downloaded extension: ms-python.python undefined
+[2020-12-17 15:06:22.434] [remoteagent] [info] Extracted extension to /home/jofreddy7/.vscode-server/extensions/.ms-python.python-2020.12.424452561: ms-python.python
+[2020-12-17 15:06:22.436] [remoteagent] [info] Renamed to /home/jofreddy7/.vscode-server/extensions/ms-python.python-2020.12.424452561
+[2020-12-17 15:06:22.450] [remoteagent] [info] Installation completed. ms-python.python
+[2020-12-17 15:06:32.418] [remoteagent] [info] Installing extension: ms-toolsai.jupyter
+[2020-12-17 15:07:03.885] [remoteagent] [info] Downloaded extension: ms-toolsai.jupyter undefined
+[2020-12-17 15:07:10.745] [remoteagent] [info] Extracted extension to /home/jofreddy7/.vscode-server/extensions/.ms-toolsai.jupyter-2020.12.414227025: ms-toolsai.jupyter
+[2020-12-17 15:07:10.746] [remoteagent] [info] Renamed to /home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025
+[2020-12-17 15:07:10.759] [remoteagent] [info] Installation completed. ms-toolsai.jupyter
+[2020-12-17 15:07:10.847] [remoteagent] [info] Extensions installed successfully: ms-toolsai.jupyter
+[2020-12-17 15:07:10.857] [remoteagent] [info] Extensions installed successfully: ms-python.python
+[2020-12-17 15:18:13.891] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 15:18:14.876] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 15:19:53.496] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 15:19:58.485] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 15:26:34.124] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 15:26:35.132] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 15:27:13.693] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 15:27:18.114] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 15:35:56.892] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 15:35:57.884] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 15:37:03.197] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 15:37:07.667] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 16:13:55.939] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 16:13:56.400] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 16:17:27.205] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 16:17:30.074] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 16:18:14.737] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 16:18:23.750] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 16:21:00.705] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 16:21:00.765] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 16:24:00.719] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.
+[2020-12-17 16:24:01.052] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 16:24:26.197] [remoteagent] [info] [::ffff:172.20.112.1][674f5878][ManagementConnection] The client has reconnected.
+[2020-12-17 16:24:30.611] [remoteagent] [info] [::ffff:172.20.112.1][35d43ff5][ExtensionHostConnection] The client has reconnected.

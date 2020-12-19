@@ -1,0 +1,21 @@
+User belongs to experiment group 'jupyterTestcf'
+Error 2020-12-19 18:19:31: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+debian/home/jofreddy7/.config/Code/User/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/jofreddy7/.config/Code/User/settings.json')
+	at _handleError (/home/jofreddy7/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/vs/server/remoteExtensionHostProcess.js:769:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.readFile (/home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:832552)
+	at async g.fixSettingsFile (/home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:288845)
+	at async Promise.all (index 0)
+	at async g.updateSettings (/home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:290565)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}
+Error 2020-12-19 18:19:31: Jupyter Extension (Error in Failed to update settings.json, method:fixSettingsFile): [EntryNotFound (FileSystemError): Unable to read file 'vscode-remote://wsl+debian/home/jofreddy7/.vscode/settings.json' (EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, open '/home/jofreddy7/.vscode/settings.json')
+	at _handleError (/home/jofreddy7/.vscode-server/bin/940b5f4bb5fa47866a54529ed759d95d09ee80be/out/vs/server/remoteExtensionHostProcess.js:769:473)
+	at processTicksAndRejections (internal/process/task_queues.js:94:5)
+	at async m.readFile (/home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:49:832552)
+	at async g.fixSettingsFile (/home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:288845)
+	at async Promise.all (index 1)
+	at async g.updateSettings (/home/jofreddy7/.vscode-server/extensions/ms-toolsai.jupyter-2020.12.414227025/out/client/extension.js:47:290565)] {
+  code: 'FileNotFound',
+  name: 'EntryNotFound (FileSystemError)'
+}

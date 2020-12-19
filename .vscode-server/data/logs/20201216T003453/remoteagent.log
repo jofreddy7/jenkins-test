@@ -1,0 +1,25 @@
+[2020-12-16 00:34:53.851] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-16 00:34:53.851] [remoteagent] [info] Extension host agent started.
+[2020-12-16 00:34:54.224] [remoteagent] [info] [::ffff:172.23.32.1][247057d8][ExtensionHostConnection] New connection established.
+[2020-12-16 00:34:54.226] [remoteagent] [info] [::ffff:172.23.32.1][7c1404ec][ManagementConnection] New connection established.
+[2020-12-16 00:34:54.403] [remoteagent] [info] [::ffff:172.23.32.1][247057d8][ExtensionHostConnection] <187> Launched Extension Host Process.
+[2020-12-16 00:35:15.493] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-16 00:35:51.118] [remoteagent] [info] [::ffff:172.23.32.1][7c1404ec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 00:35:52.149] [remoteagent] [info] [::ffff:172.23.32.1][247057d8][ExtensionHostConnection] <187> Extension Host Process exited with code: 0, signal: null.
+[2020-12-16 00:35:52.150] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2020-12-16 00:35:55.638] [remoteagent] [info] [::ffff:172.23.32.1][17d24c2c][ManagementConnection] New connection established.
+[2020-12-16 00:35:55.640] [remoteagent] [info] [::ffff:172.23.32.1][e8578066][ExtensionHostConnection] New connection established.
+[2020-12-16 00:35:55.649] [remoteagent] [info] [::ffff:172.23.32.1][e8578066][ExtensionHostConnection] <205> Launched Extension Host Process.
+[2020-12-16 00:35:56.657] [remoteagent] [info] [::ffff:172.23.32.1][17d24c2c][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2020-12-16 00:35:56.798] [remoteagent] [info] [::ffff:172.23.32.1][e8578066][ExtensionHostConnection] <205> Extension Host Process exited with code: 1, signal: null.
+[2020-12-16 00:35:56.798] [remoteagent] [info] Cancelling previous shutdown timeout
+[2020-12-16 00:35:56.799] [remoteagent] [info] Last EH closed, waiting before shutting down

@@ -1,0 +1,17 @@
+[2020-12-17 11:51:17.408] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2020-12-17 11:51:17.408] [remoteagent] [info] Extension host agent started.
+[2020-12-17 11:51:17.893] [remoteagent] [info] [::1][df5da9e7][ExtensionHostConnection] New connection established.
+[2020-12-17 11:51:17.897] [remoteagent] [info] [::1][17509de4][ManagementConnection] New connection established.
+[2020-12-17 11:51:18.035] [remoteagent] [info] Listing 0 persistent terminals, 0 total terminals
+[2020-12-17 11:51:18.145] [remoteagent] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/jofreddy7/.vscode'
+[2020-12-17 11:51:18.272] [remoteagent] [info] [::1][df5da9e7][ExtensionHostConnection] <1102> Launched Extension Host Process.
+[2020-12-17 13:38:11.990] [remoteagent] [warning] [File Watcher (chokidar)] Error: EIO: i/o error, stat '/home/jofreddy7/.aws'
